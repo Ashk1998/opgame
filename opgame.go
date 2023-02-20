@@ -1,5 +1,5 @@
 package main
-
+//opgame
 import (
 	"bufio"
 	"fmt"
