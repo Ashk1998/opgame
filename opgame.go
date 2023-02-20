@@ -1,5 +1,5 @@
 package main
-//opgame
+
 import (
 	"bufio"
 	"fmt"
@@ -67,3 +67,4 @@ func main() {
 		os.Exit(1)
 	}
 }
+
